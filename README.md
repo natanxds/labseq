@@ -27,7 +27,7 @@ To get the container running, please, login to your docker account using cmd("do
 
     
 ## API Reference
-
+default port:8080 
 
 #### Get item
 
