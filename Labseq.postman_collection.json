@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "7eb76556-f05a-4a96-80d9-1a916382536b",
+		"name": "Labseq",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30315869"
+	},
+	"item": [
+		{
+			"name": "Get labseq ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/labseq/10000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"labseq",
+						"10000"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
