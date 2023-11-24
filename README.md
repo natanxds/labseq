@@ -72,13 +72,3 @@ With the app running, you can find the docs in:
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
